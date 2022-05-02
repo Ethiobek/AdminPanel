@@ -44,7 +44,7 @@ const StyledBadge = styled(BadgeUnstyled)`
     line-height: 20px;
     white-space: nowrap;
     text-align: center;
-    background: #07f;
+    background: red;
     border-radius: 10px;
     box-shadow: 0 0 0 1px #fff;
     position: absolute;
